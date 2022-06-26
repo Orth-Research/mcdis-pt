@@ -1,4 +1,5 @@
 [![Paper](https://img.shields.io/badge/paper-arXiv%3A2105.06402-B31B1B.svg)](https://arxiv.org/abs/2105.06402)
+[![DOI](https://zenodo.org/badge/507527663.svg)](https://zenodo.org/badge/latestdoi/507527663)
 
 # Essential role of magnetic frustration in the phase diagrams of doped cobaltites
 
